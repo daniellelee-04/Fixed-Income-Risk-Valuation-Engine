@@ -14,7 +14,7 @@ I ran 1,000 simulations using a Monte Carlo approach to see what the worst-case 
 ---
 
 ### Internal Memo: Portfolio Risk Assessment
-**Date:** January 8 2026
+**Date:** January 8, 2026
 
 **Executive Summary**
 The portfolio is currently valued at $497.26. Based on the simulations, the risk level is Conservative. The 95% Value-at-Risk (VaR) is $0.78. This means there is a 5% chance the portfolio will lose more than $0.78 over the next year based on current interest rate volatility.
