@@ -13,7 +13,7 @@ I ran 1,000 simulations using a Monte Carlo approach to see what the worst-case 
 
 ---
 
-### Internal Memo: Portfolio Risk Assessment
+### Portfolio Risk Assessment
 **Date:** January 8 2026
 
 **Executive Summary**
